@@ -1,1 +1,3 @@
 # cognitiveengineering
+認知工学授業
+隠れマルコフモデルの課題プログラミング
